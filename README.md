@@ -13,11 +13,11 @@ El proyecto se basa en un paper japonés de 2008 publicado por New Journal of Ph
 - Inicializar el sistema a partir de posiciones conocidas y una distribución de velocidades aleatoria.
 - Elaborar subrutinas que evalúan si los discos chocan o cambian de velocidad. Calcular las nuevas velocidades y posiciones del sistema y como afecta el flujo de las moléculas.
 - Visualizar por medio de matplotlib la posición de cada uno de las partículas dentro de los carriles y guardar el correspondiente archivo para realizar una película al final del cálculo.
-- Aumentar el número de discos presentes.
+- Aumentar el número de particulas presentes.
 - Elaborar un histograma de las posiciones de los centros de los discos a lo largo del eje-x.
 - Determinar cuantas partículas llegan a congestionar o colapsar un numero n de carriles.
 - Visualizar el efecto de presa fantasma en una carretera circular.
-- Visualizar/simular el flujo perfecto de las partículas.
+- Visualizar/simular el flujo correcto de las partículas.
 - Crear documentación.
 
 ## Tecnicas y recursos utilizados 
