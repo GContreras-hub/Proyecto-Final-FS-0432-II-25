@@ -32,27 +32,24 @@ El proyecto se basa en un paper japonés de 2008 publicado por New Journal of Ph
 ## Estructura del repositorio
 
 ```plaintext
-DINAMICA-MOLECULAR/
-├── src/
-│ ├── sim.py # Clase Partícula y generación del sistema
-│ ├── colisiones.py # Lógica de colisiones entre partículas
-│ └── simulador.py # Bucle principal de simulación
+https://github.com/GContreras-hub/Proyecto-Final-FS-0432-II-25/tree/main
+Proyecto-Final-FS-0432-II-25/
 │
 ├── notebook/
-│ └── proyecto_final.ipynb # Notebook principal con ejecución y visualización
+│ └── proyecto_final.ipynb 
 │
-├── docs/
-│ ├── metodologia.md # Documento explicativo del problema, recursos y enfoque
-│ ├── explicacion_notebook.md # Explicación rápida para ejecutar el notebook
-│ ├── graficos/ # Gráficos en PNG generados por la simulación
-│ | ├── parametros.md # Parámetros y condiciones iniciales del sistema usado en las figuras
-│ │ ├── Fig1.jpg
-│ │ ├── Fig2.jpg
-│ │ └── Fig3.jpg
-│ └── Reporte_final.pdf # Reporte del proyecto en formato PDF
-│
-├── docs_web/ # Página HTML con documentación interactiva
-│ └── index.html
+├──Proyecto/
+│   ├──mkdocs.yml
+│   ├── Mkdocs.png
+│   ├── Mkdocs2.png
+│   ├──simulacionPoo.py
+│    └── docs/
+│          ├── index.md
+│          ├── Mkdocs.png
+│          ├── Mkdocs2.png
+│          ├──simulacionPoo.py 
+│           └── api/
+│                └── simulacion.md
 │
 ├── presentación/
 │ └── Diapositivas.pdf # Diapositivas utilizadas para la exposición final
