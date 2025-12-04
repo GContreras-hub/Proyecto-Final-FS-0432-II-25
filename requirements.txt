@@ -1,0 +1,3 @@
+Requisitos para ejecutar:
+numpy version 1.24 o superior
+matplotlib version 3.6 o superior 
